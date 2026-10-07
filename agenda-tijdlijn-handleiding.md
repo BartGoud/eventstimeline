@@ -1,6 +1,6 @@
 # Agenda-tijdlijn (iCal) · handleiding en beperkingen
 
-Versie 1.1.0 · 6 oktober 2026 · getest op uitlaatservice.bartgoud.com (WordPress, Blocksy, Elementor Free, WPCode Lite)
+Versie 1.1.0 · 6 oktober 2026 · getest op ... (WordPress, Blocksy, Elementor Free, WPCode Lite)
 
 Een WPCode-snippet die een Google Agenda via het geheime iCal-adres uitleest en als verticale tijdlijn toont (aankomend bovenaan, voorbij eronder). Eén shortcode: `[agenda_tijdlijn]`.
 
